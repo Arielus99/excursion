@@ -38,3 +38,7 @@ div {
   align-content: center; */
   text-align: center;
 }
+
+.footer {
+  text-align: right;
+}
